@@ -8,4 +8,4 @@ Traditional hardware-based security middleboxes (_e.g._, firewalls, deep packet 
 -  E. Jalalpour, M. Ghaznavi, D. Migault, S. Preda, M. Pourzandi, R. Boutaba. A Security Orchestration System for CDN Edge Servers. IEEE Conference on Network Softwarization (NetSoft). Montreal, Canada, June 25-29, 2018 ([Paper](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2018/JalalpourNETSOFT18.pdf), [Slides](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2018/JalalpourNETSOFT18Slides.pdf)).
 
 ## Sponsors and Partners
-<img src="assets/nserc_logo.png" alt="NSERC" width="30%"/><img src="assets/huawei_logo.png" alt="Huawei Canada" width="30%"/>
+<img src="assets/nserc_logo.png" alt="NSERC" width="30%"/><img src="assets/ericsson_logo.png" alt="Huawei Canada" width="30%"/>
