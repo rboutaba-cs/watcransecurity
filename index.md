@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Project Description
+The mobile telecommunications industry is moving swiftly towards 5G networks that will offer ultra-fast mobile broadband and ultra-low latency services with exceptional reliability for vertical markets. To meet the surge in demand for connectivity, mobile network operators (MNOs) are finding it exceedingly difficult to offset the capital and operational expenses of traditional Radio Access Networks (RANs) against the reduced income. Cloud RANs (C-RANs) are a feasible alternative, offering seemingly infinite resources (_i.e._, compute, storage, radio), centralized operation of baseband units (BBUs), and scalable deployment of lightweight remote radio heads (RRHs) as small cells. C-RANs enable flexible coordination between centralized virtual BBUs (vBBUs) and distributed virtual RRHs (vRRHs) that are managed via software-defined networking (SDN) and network functions virtualization (NFV), focusing on the flexible and elastic 5G network slicing to meet end-user demands for different levels of quality of service (QoS). Furthermore, virtualization and elastic resource allocation facilitate on-demand hosting of additional services within C-RAN. However, as C-RANs consist of a large number of resources that act as pivotal connecting points, a security breach could lead to the unavailability of resources, and compromise the integrity of system and data. Furthermore, an attack, such as distributed denial-of-service (DDoS), could potentially disrupt services and degrade QoS/QoE for legitimate end-users, resulting in loss of revenue for, and reputation of, the service provider. Hence, it is imperative to secure C-RANs and their services, to ensure high levels of robustness and dependability.
 
-You can use the [editor on GitHub](https://github.com/watcransecurity/watcransecurity.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Traditional hardware-based security middleboxes (_e.g._, firewalls, deep packet inspection) are inflexible for the dynamic and volatile C-RAN environment. Thus, this project aims to provide a novel and timely solution to address security in C-RANs, particularly focusing on: (i) automated intrusion detection - automatically protect E-RANs against known and unknown DDoS attacks, and (ii) automated attack response and mitigation - efficiently and automatically deploy countermeasures at the network edge. This project will leverage machine learning (ML) to develop novel techniques for anomaly-based intrusion detection. For response and mitigation, ML along with the flexibility of SDN and NFV will be leveraged for efficient network slice reconfiguration across a multi-tenant C-RAN infrastructure. The proposed research will broaden the scope of intrusion detection and mitigation, including protection against zero-day threats in C-RANs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Related Publications
+-  E. Jalalpour, M. Ghaznavi, D. Migault, S. Preda, M. Pourzandi, R. Boutaba. Dynamic Security Orchestration for CDN Edge-Servers. IEEE Conference on Network Softwarization (NetSoft). Montreal, Canada, June 25-29, 2018 (Demo) ([Extended abstract](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2018/JalalpourNETSOFT18Demo.pdf)).
+-  E. Jalalpour, M. Ghaznavi, D. Migault, S. Preda, M. Pourzandi, R. Boutaba. A Security Orchestration System for CDN Edge Servers. IEEE Conference on Network Softwarization (NetSoft). Montreal, Canada, June 25-29, 2018 ([Paper](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2018/JalalpourNETSOFT18.pdf), [Slides](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2018/JalalpourNETSOFT18Slides.pdf)).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/watcransecurity/watcransecurity.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Sponsors and Partners
+<img src="assets/nserc_logo.png" alt="NSERC" width="30%"/><img src="assets/huawei_logo.png" alt="Huawei Canada" width="30%"/>
