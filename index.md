@@ -9,4 +9,4 @@ Traditional hardware-based security middleboxes (_e.g._, firewalls, deep packet 
 
 ## Sponsors and Partners
 |<img src="assets/nserc_logo.png" alt="NSERC" width="32%"/>|<img src="assets/ericsson-logo.png" alt="Ericsson Canada" width="25%"/>|
-|--%|%--|
+|----|----|
